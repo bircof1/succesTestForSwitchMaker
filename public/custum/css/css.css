@@ -1,0 +1,16 @@
+.thumbnail img {
+    max-width: 100%;
+}
+
+.imgCust {
+    width: auto\9;
+    height: 150px;
+    max-width: 100%;
+    vertical-align: middle;
+    border: 0;
+    -ms-interpolation-mode: bicubic;
+}
+
+.danger{
+    color:red;
+}
